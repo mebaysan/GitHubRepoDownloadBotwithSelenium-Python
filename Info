@@ -1,0 +1,2 @@
+Eğer chrome driver'ı path dosyanıza ekleyemediyseniz  programınızda Chrome driver'dan instance oluştururken;
+driver = webdriver.Chrome(executable_path='/path/to/driver/chromedriver') -> bu şekilde driver'ın yolunu kendiniz belirleyebilirsiniz
